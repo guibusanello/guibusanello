@@ -1,6 +1,6 @@
-## Olá, eu sou Guilherme Almeida Busanello e sou cientista de dados! 👋
+## Olá, eu sou Guilherme Almeida Busanello e sou analista de dados! 👋
 
-💡 Sou engenheiro agrônomo de formação, mas o amor pela tecnologia me levou ao mundo dos dados!
+💡 Sou engenheiro agrônomo de formação, mas o amor pela tecnologia me levou ao mundo dos dados! Estou estudando ciência de dados!
 
 👨🏻‍💻 Atualmente atuo como Analista de CS Ops na Syngenta Digital, onde utilizo dados para gerar insights estratégicos ao longo de todas as fases da jornada do cliente. Meu foco é otimizar processos de Customer Success, impulsionando resultados e promovendo uma experiência mais eficaz e satisfatória para os clientes da Syngenta Digital!
 
