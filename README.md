@@ -1,15 +1,14 @@
 ## Olá, eu sou Guilherme Almeida Busanello e sou engenheiro de dados! 👋
 ***
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guibusanello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+Meu nome é Guilherme Almeida Busanello, sou engenheiro agrônomo com atuação prática em análise e engenharia de dados.
 
-***
+Com mais de 10 anos de atuação nas áreas comercial, operações e sucesso do cliente, desenvolvi uma forte capacidade de conectar dados com problemas reais de negócio, gerando insights que apoiam a tomada de decisão e a melhoria da experiência de todos os stakeholders ao longo de toda a jornada.
 
-💡 Sou engenheiro agrônomo de formação, mas o amor pela tecnologia me levou ao mundo dos dados! Estou estudando engenharia de dados!
+Tenho experiência com ferramentas como SQL, Python, dbt, Databricks, AWS, processos de ETL/ELT e versionamento no Git, atuando na coleta, transformação, modelagem e disponibilização de dados para análises e aplicações analíticas.
 
-💬 As ferramentas que mais utilizo em meus projetos são Python, SQL, Excel e PowerBI.
+Busco desenvolver soluções de dados escaláveis, bem estruturadas e confiáveis, aplicando boas práticas de engenharia de dados e analytics engineering para transformar dados brutos em ativos estratégicos que apoiam decisões e geram valor para o negócio.
+
 ***
 [![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gui_busanello@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5555996828530)
